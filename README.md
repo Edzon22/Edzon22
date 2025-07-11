@@ -1,4 +1,4 @@
-## Hi there 👋 ¡Hola! Soy Tonny Edzon Torrez Cruz, estudiante de Ingeniería en Sistemas.
+## Hi there 👋 ¡Hola! Soy Edzon Torrez, estudiante de Ingeniería en Sistemas.
 - 🚀 Apasionado por la programación, los sistemas colaborativos y la mejora continua.
 - 💡 “No se trata de ser el mejor, se trata de ser mejor que ayer.
 
